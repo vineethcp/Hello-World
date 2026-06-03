@@ -1,21 +1,19 @@
 # Vineeth C Pandalai
-Mechanical Engineer | UAV Operations & Program Management | Aerospace Enthusiast
+# About Me
 
-I have 6+ years of experience spanning UAV operations, drone manufacturing, healthcare logistics, additive manufacturing, and engineering program management.
+I am an engineer driven by a fascination with flight, complex systems, and solving real-world problems through technology.
 
-My journey in aviation began with drone-based agricultural surveying in Sri Lanka and evolved into leading large-scale drone delivery operations in India. I was part of the early team at TechEagle, where I helped build and scale Asia's first drone delivery hub in Meghalaya, supporting healthcare delivery to remote communities through BVLOS drone operations. I have worked on various projects handling them as the operations manager in various states of India. 
+Over the past several years, I have worked across UAV manufacturing, drone delivery, healthcare logistics, additive manufacturing, and engineering operations. I helped establish and scale Asia's first drone delivery hub in Meghalaya, leading teams, building operational systems, and supporting BVLOS drone logistics in challenging environments.
 
-My experience combines engineering, operations, and leadership:
+My interests span:
 
-Building and scaling UAV operations from the ground up
-Managing multidisciplinary teams of pilots, engineers, and project managers
-Drone delivery networks and healthcare logistics
-ArduPilot, Mission Planner, and autonomous flight operations
-Additive manufacturing and advanced materials engineering
-Aerospace systems design and eVTOL concepts
+* UAV and eVTOL design
+* Autonomous flight systems
+* Aerospace engineering
+* Operations strategy and program management
+* Additive manufacturing and advanced materials
+* Remote sensing and geospatial technologies
 
-Currently, I am focused on flight operations program management, UAV innovation, and exploring applications of drones in logistics, agriculture, and public infrastructure.
-
-I enjoy learning about aircraft design, propulsion systems, autonomous navigation, remote sensing, manufacturing technologies, and emerging aerospace concepts.
+I believe the future of aviation will be shaped by autonomous systems, distributed logistics, advanced manufacturing, and practical engineering innovation. My goal is to contribute to that future by building technologies that move from concept to real-world impact.
 
 Always interested in connecting with people working on UAVs, aerospace systems, robotics, and engineering innovations, in general. I am a science and research oriented person with interests varying from entamology to organic chemistry to nuclear engineering to space and beyond. 
